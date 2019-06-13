@@ -12,5 +12,6 @@ public class TestGit {
 		System.out.printin("1111景清晨跳芭蕾，晓东在旁边伴舞");
 		System.out.printin("景清晨跳芭蕾，晓东在旁边伴舞fafdfdf");
 		System.out.printin("白白白白白白");
+		System.out.println("看楼上连pringln 都不会写--来自老猫的嘲讽");
 	}
 }
